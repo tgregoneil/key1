@@ -5,7 +5,7 @@ Returns null if anything else is passed to key1().
 
 ### Installation
 ```shell
-$ npm install go22-key1
+$ npm install key1
 ```
 
 ### Example (test.js)
