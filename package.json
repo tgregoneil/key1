@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test.js"
   },
-  "keywords": ['key1', 'singleton'],
+  "keywords": ["key1", "singleton"],
   "author": "@tgregoneil",
   "license": "ISC"
 }
