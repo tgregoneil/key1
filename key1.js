@@ -1,5 +1,10 @@
 // key1.js
 
+// key1 extracts the single key from an object 
+// containing only one key/value pair
+// and returns the string value for the key
+// anything else passed to key1 returns null
+
 module.exports = (function () {
 
 //---------------------
