@@ -14,7 +14,7 @@ var k2 = key1 ({x: 100, y: 120}); <br>
 // returns null, since ob has > 1 key
 
 k3 = key1 (undefined); <br>
-// returns null, since arg is undefined
+// returns null, since arg is undefined <br>
 // key1 always returns null, unless it's passed a non-null, non-Array object
 
 
