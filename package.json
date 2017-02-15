@@ -4,13 +4,19 @@
   "description": "Extracts the key from an object with a single key/value pair. Returns null for any other case.",
   "main": "index.js",
   "homepage": "https://github.com/tgregoneil/key1",
-  "repository": {"url": "git+https://github.com/tgregoneil/key1",
-      "type": "git"},
-  "bugs": {"url": "https://github.com/tgregoneil/key1/issues"},
+  "repository": {
+    "url": "git+https://github.com/tgregoneil/key1.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgregoneil/key1/issues"
+  },
   "scripts": {
     "test": "test.js"
   },
-  "keywords": ["key1"],
-  "author": "@go22",
-  "license": "ISC"
+  "keywords": [
+    "key1"
+  ],
+  "license": "ISC",
+  "author": "T. Greg O'Neil <go22.npm@gmail.com> (http://tgregoneil.com)"
 }
