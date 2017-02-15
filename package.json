@@ -1,5 +1,5 @@
 {
-  "name": "go22-key1",
+  "name": "key1",
   "version": "1.0.4",
   "description": "Extracts the single key from a singleton object. Returns null for any other case.",
   "main": "index.js",
