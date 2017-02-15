@@ -1,0 +1,12 @@
+{
+  "name": "key1",
+  "version": "1.0.0",
+  "description": "Extracts the single key from a singleton object. Returns null for any other case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": ['key1', 'singleton'],
+  "author": "@tgregoneil",
+  "license": "ISC"
+}
