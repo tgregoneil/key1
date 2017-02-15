@@ -1,6 +1,6 @@
 {
   "name": "key1",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Extracts the key from an object with a single key/value pair. Returns null for any other case.",
   "main": "index.js",
   "homepage": "https://github.com/tgregoneil/key1",
