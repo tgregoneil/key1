@@ -1,6 +1,6 @@
 {
   "name": "key1",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Extracts the key from an object with a single key/value pair. Returns null for any other case.",
   "readme": "README.md",
   "main": "index.js",
