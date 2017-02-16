@@ -1,8 +1,8 @@
 {
   "name": "key1",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Extracts the key from an object with a single key/value pair. Returns null for any other case.",
-  "readme": "readme.md",
+  "readme": "README.md",
   "main": "index.js",
   "homepage": "https://github.com/tgregoneil/key1",
   "repository": {
