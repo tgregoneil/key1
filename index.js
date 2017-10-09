@@ -23,6 +23,20 @@ var key1 = (ob) => {
         var keys = Object.keys(ob);
         key = keys[0];
     
+    } else if (Array.isArray (ob)) {
+
+        var ob0 = ob [0];
+        var uniqueArrayKeyExists = typeof ob0 !== 'undefined' &&
+                                   ob0 !== null &&
+                                   typeof ob0 !== 'object';
+
+        if (uniqueArrayKeyExists) {
+            
+            key = ob0;
+
+        } // end if (uniqueArrayKeyExists)
+
+
     } // end if (uniqueKeyExists)
     
     return key;
